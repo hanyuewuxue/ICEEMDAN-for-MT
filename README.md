@@ -1,2 +1,2 @@
-# ICEEMDAN-for-MT
-The GitHub repository for the paper "Denoising Application of Magnetotelluric Low-Frequency Signal Processing"
+Denoising Application of Magnetotelluric Low-Frequency Signal Processing
+This is the origin MATLAB implementation of ICEEMDAN in the following paper:Denoising Application of Magnetotelluric Low-Frequency Signal Processing
